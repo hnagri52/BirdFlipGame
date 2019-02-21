@@ -3,7 +3,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.applet.*;
-//Hi I am Ammar, I declared many things globally and this is a lot of text, but i wont write as much later on so don't worry
+//Hi I am Hussein, I declared many things globally and this is a lot of text, but i wont write as much later on so don't worry
 public class birdflip3 extends Applet implements ActionListener
 {
     Panel p_card, grid, grid2, grid3, grid4; //p_card is the panel that holds all of the card layouts and grids are panels that hold gridlayouts for each level of the 4 levels
